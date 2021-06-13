@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://github.com/samankassou/schooladmin/blob/main/public/images/default-user.jpg)](https://github.com/samankassou)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samankassou&count_private=true&show_icons=true&theme=radical)](https://github.com/samankassou/github-readme-stats)
 
