@@ -55,3 +55,5 @@
 ---
 
 <sub>Built with ❤️, caffeine, and the occasional rubber-duck debugging session.</sub>
+
+![](https://hit.yhype.me/github/profile?account_id=47096129)
