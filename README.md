@@ -1,17 +1,57 @@
-### Hi welcome to my github 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samankassou&count_private=true&show_icons=true)](https://github.com/samankassou/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samankassou&layout=compact)](https://github.com/samankassou/github-readme-stats)
+<!-- README.md – GitHub profile -->
 
-<hr>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-   <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-   <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/jquery/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/bootstrap/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/></a> 
-  <a href="https://laravel.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></a> 
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
+<h1 align="center">Hi, I'm Foulla 👋</h1>
+<p align="center">
+  <em>Software Engineer&nbsp;&bull;&nbsp;Application Analyst&nbsp;&bull;&nbsp;Automation Aficionado</em>
 </p>
+
+---
+
+## 🧑‍💻 About Me
+- 🎓 Engineer by training, problem-solver by nature.  
+- ⚙️ I craft **Laravel + Inertia.js + React** apps with a pinch of **ShadCN** for that pixel-perfect finish.  
+- 🤖 Power Platform & Copilot fan: I automate the boring stuff so teams (and I) can focus on value.  
+- 🛳️ Container geek: Docker everywhere, CI/CD with GitHub Actions.  
+- 📚 Always levelling-up: currently exploring Gen-AI use-cases and polishing my piano skills (1 h/day, wish me luck!).
+
+## 🔧 Tech & Tools
+<p align="left">
+  <!-- Languages / frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"       alt="PHP"        width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel"    width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"   width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"     alt="React"      width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"   alt="Docker"     width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"       alt="Bash"       width="40" />
+  <!-- Cloud / automation -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"     alt="Azure"      width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg"  alt="PowerAutomate" width="40" />
+  <!-- Other essentials -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"         alt="Git"        width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"   alt="GitHub"     width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"   alt="VS Code"    width="40" />
+</p>
+
+## 🚀 Current Focus
+- **Regulatory watch platform** — leveraging Azure OpenAI to parse & monitor legal content.  
+- **Side projects** aiming for sustainable passive income (SaaS and dev-tools).  
+- **Community** — sharing tips on AI-driven productivity & automation in webinars and blog posts.
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samankassou&show_icons=true&count_private=true&theme=transparent" alt="Foulla's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samankassou&layout=compact&hide=css,html&theme=transparent" alt="Top Langs">
+</p>
+
+## 🌱 Learning Roadmap
+- Advanced **React patterns** & performance tuning  
+- **DevOps** best practices on Azure (Bicep, ACR, AKS)  
+- Better **UI/UX** flows (because great features deserve great experiences)
+
+## 📫 Let’s Connect
+- **LinkedIn:** [linkedin.com/in/foulla](https://linkedin.com/in/sam-foulla)  
+- **Fun fact:** I’ll probably reply faster if your DM includes a good jazz-piano recommendation 🎹
+
+---
+
+<sub>Built with ❤️, caffeine, and the occasional rubber-duck debugging session.</sub>
