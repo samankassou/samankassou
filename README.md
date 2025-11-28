@@ -18,6 +18,7 @@
 <p align="left">
   <!-- Languages / frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"       alt="PHP"        width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"       alt="Csharp"        width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel"    width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"   width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"     alt="React"      width="40" />
@@ -39,8 +40,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samankassou&show_icons=true&count_private=true&theme=transparent" alt="Foulla's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samankassou&layout=compact&hide=css,html&theme=transparent" alt="Top Langs">
+  [![Foulla's GitHub stats](https://github-readme-stats.vercel.app/api?username=samankassou)](https://github.com/samankassou/github-readme-stats)
 </p>
 
 ## 🌱 Learning Roadmap
@@ -49,7 +49,8 @@
 - Better **UI/UX** flows (because great features deserve great experiences)
 
 ## 📫 Let’s Connect
-- **LinkedIn:** [linkedin.com/in/foulla](https://linkedin.com/in/sam-foulla)  
+- **LinkedIn:** [linkedin.com/in/foulla](https://linkedin.com/in/sam-foulla)
+- **Website:** [samankassou.com](https://samankassou.com)
 - **Fun fact:** I’ll probably reply faster if your DM includes a good jazz-piano recommendation 🎹
 
 ---
