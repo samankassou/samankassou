@@ -38,11 +38,6 @@
 - **Side projects** aiming for sustainable passive income (SaaS and dev-tools).  
 - **Community** — sharing tips on AI-driven productivity & automation in webinars and blog posts.
 
-## 📊 GitHub Stats
-<p align="center">
-  [![Foulla's GitHub stats](https://github-readme-stats.vercel.app/api?username=samankassou)](https://github.com/samankassou/github-readme-stats)
-</p>
-
 ## 🌱 Learning Roadmap
 - Advanced **React patterns** & performance tuning  
 - **DevOps** best practices on Azure (Bicep, ACR, AKS)  
