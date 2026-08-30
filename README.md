@@ -1,55 +1,108 @@
-<!-- README.md – GitHub profile -->
+<h1 align="center">Hi, I'm Foulla SAMANKASSOU 👋</h1>
 
-<h1 align="center">Hi, I'm Foulla 👋</h1>
 <p align="center">
-  <em>Software Engineer&nbsp;&bull;&nbsp;Application Analyst&nbsp;&bull;&nbsp;Automation Aficionado</em>
+  <strong>BI/AI Project Manager · Software Engineer · Enterprise Transformation</strong>
+</p>
+
+<p align="center">
+  I design and deliver data, automation, cloud, and business applications that transform complex operational processes into reliable digital solutions.
+</p>
+
+<p align="center">
+  <a href="https://www.samankassou.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/sam-foulla">LinkedIn</a> ·
+  <a href="https://github.com/samankassou">GitHub</a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 Engineer by training, problem-solver by nature.  
-- ⚙️ I craft **Laravel + Inertia.js + React** apps with a pinch of **ShadCN** for that pixel-perfect finish.  
-- 🤖 Power Platform & Copilot fan: I automate the boring stuff so teams (and I) can focus on value.  
-- 🛳️ Container geek: Docker everywhere, CI/CD with GitHub Actions.  
-- 📚 Always levelling-up: currently exploring Gen-AI use-cases and polishing my piano skills (1 h/day, wish me luck!).
+## 👨‍💻 About Me
 
-## 🔧 Tech & Tools
-<p align="left">
-  <!-- Languages / frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"       alt="PHP"        width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"       alt="Csharp"        width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel"    width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"   width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"     alt="React"      width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"   alt="Docker"     width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"       alt="Bash"       width="40" />
-  <!-- Cloud / automation -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"     alt="Azure"      width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg"  alt="PowerAutomate" width="40" />
-  <!-- Other essentials -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"         alt="Git"        width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"   alt="GitHub"     width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"   alt="VS Code"    width="40" />
-</p>
+- 💼 BI/AI Project Manager at **Africa Global Logistics**
+- ⚓ Currently working on **Cognitiv’Dore**, a program transforming conventional cargo-handling operations
+- 🤖 Interested in responsible automation, document intelligence, and human-in-the-loop systems
+- 🧩 Building enterprise applications with **.NET, Next.js, Laravel, React, and TypeScript**
+- ☁️ Designing and deploying cloud solutions on **Microsoft Azure**
+- 📊 Experienced in business intelligence and data modernization with **Power BI, QlikView, Talend, and SQL**
+- 🌍 Based in Douala, Cameroon — working in French and English
 
-## 🚀 Current Focus
-- **Regulatory watch platform** — leveraging Azure OpenAI to parse & monitor legal content.  
-- **Side projects** aiming for sustainable passive income (SaaS and dev-tools).  
-- **Community** — sharing tips on AI-driven productivity & automation in webinars and blog posts.
+## 🚀 Featured Work
 
-## 🌱 Learning Roadmap
-- Advanced **React patterns** & performance tuning  
-- **DevOps** best practices on Azure (Bicep, ACR, AKS)  
-- Better **UI/UX** flows (because great features deserve great experiences)
+### ⚓ Cognitiv’Dore — Port Operations Transformation
+
+**Cognitiv’Dore** is an Africa Global Logistics program designed to support the digital transformation and supervision of conventional cargo-handling operations.
+
+I am currently working on its **Preparation module**, which transforms heterogeneous maritime manifest data into controlled, structured, and traceable information before it is consumed by downstream business systems.
+
+The module supports:
+
+- Maritime manifests received as PDF, EDI/TXT, Excel, or manual input
+- Data import, extraction, structuring, and validation
+- Automated business and data-quality controls
+- Human review and correction through a human-in-the-loop workflow
+- Complete traceability of processing and validation activities
+- Generation of standardized outputs for operational and billing systems
+- Centralized and controlled data storage
+
+The solution reduces repeated data entry, limits processing errors, and significantly improves manifest preparation time while keeping users in control of critical validations.
+
+**Technology:** `.NET` · `Next.js` · `Azure SQL` · `Microsoft Azure` · `Azure DevOps`
+
+### 🧠 KardiaMind — Independent Product Engineering
+
+Alongside my professional work, I am building **KardiaMind**, a mental-health and teletherapy platform for patients, therapists, and administrators.
+
+The platform includes:
+
+- A versioned API and React administration portal
+- Secure authentication and role-based authorization
+- Therapist discovery, appointment booking, and patient management
+- Realtime messaging, presence, and audio consultations
+- Push notifications and mobile-money payments
+- Automated reminders, financial workflows, and therapist payouts
+- Automated testing, static analysis, and CI/CD practices
+
+**Technology:** `Laravel` · `PHP` · `React` · `TypeScript` · `Inertia.js` · `Tailwind CSS` · `Reverb` · `Agora` · `Firebase` · `Pest`
+
+## 🛠️ Core Expertise
+
+| Area | Technologies and practices |
+|---|---|
+| **Software Engineering** | .NET, C#, PHP, Laravel, REST APIs, system design |
+| **Frontend Development** | Next.js, React, TypeScript, JavaScript, Inertia.js, Vue.js, Tailwind CSS |
+| **AI & Automation** | Azure OpenAI, AI Builder, Copilot Studio, Power Platform, document processing |
+| **BI & Data** | Power BI, QlikView, Talend, SQL Server, Azure SQL, MySQL, PostgreSQL |
+| **Cloud & DevOps** | Microsoft Azure, Azure DevOps, Docker, GitHub Actions, CI/CD |
+| **Architecture** | Human-in-the-loop workflows, system integration, realtime applications, traceability |
+| **Quality** | Automated testing, static analysis, code review, observability |
+
+## 💡 Areas of Interest
+
+- Enterprise application modernization
+- Intelligent document processing
+- Human-centered automation
+- Business intelligence and data platforms
+- Cloud architecture and DevOps
+- Realtime and API-driven applications
+- Digital transformation of operational processes
+
+## 🏅 Certifications
+
+- **PL-300** — Microsoft Power BI Data Analyst
+- **AZ-400** — Microsoft DevOps Engineer Expert
+- **AZ-204** — Microsoft Azure Developer Associate
+- **AZ-900** — Microsoft Azure Fundamentals
+- **ITIL® 4 Foundation**
+- **Scrum Master Accredited**
 
 ## 📫 Let’s Connect
-- **LinkedIn:** [linkedin.com/in/foulla](https://linkedin.com/in/sam-foulla)
-- **Website:** [samankassou.com](https://samankassou.com)
-- **Fun fact:** I’ll probably reply faster if your DM includes a good jazz-piano recommendation 🎹
+
+- 🌐 [samankassou.com](https://www.samankassou.com)
+- 💼 [linkedin.com/in/sam-foulla](https://www.linkedin.com/in/sam-foulla)
+- 🐙 [github.com/samankassou](https://github.com/samankassou)
 
 ---
 
-<sub>Built with ❤️, caffeine, and the occasional rubber-duck debugging session.</sub>
-
-![](https://hit.yhype.me/github/profile?account_id=47096129)
+<p align="center">
+  Building reliable systems at the intersection of software, data, AI, and business operations.
+</p>
