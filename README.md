@@ -1,108 +1,110 @@
 <h1 align="center">Hi, I'm Foulla SAMANKASSOU 👋</h1>
 
 <p align="center">
-  <strong>BI/AI Project Manager · Software Engineer · Enterprise Transformation</strong>
+  <strong>Software Engineer &amp; BI/AI Project Manager</strong>
 </p>
 
 <p align="center">
-  I design and deliver data, automation, cloud, and business applications that transform complex operational processes into reliable digital solutions.
+  Building enterprise applications and intelligent workflows for complex business operations.
 </p>
 
 <p align="center">
   <a href="https://www.samankassou.com">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/sam-foulla">LinkedIn</a> ·
-  <a href="https://github.com/samankassou">GitHub</a>
+  <a href="https://www.linkedin.com/in/sam-foulla">LinkedIn</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 BI/AI Project Manager at **Africa Global Logistics**
-- ⚓ Currently working on **Cognitiv’Dore**, a program transforming conventional cargo-handling operations
-- 🤖 Interested in responsible automation, document intelligence, and human-in-the-loop systems
-- 🧩 Building enterprise applications with **.NET, Next.js, Laravel, React, and TypeScript**
-- ☁️ Designing and deploying cloud solutions on **Microsoft Azure**
-- 📊 Experienced in business intelligence and data modernization with **Power BI, QlikView, Talend, and SQL**
-- 🌍 Based in Douala, Cameroon — working in French and English
+I bridge business operations and software engineering, turning complex workflows into reliable applications.
+
+- 💼 **BI/AI Project Manager at Africa Global Logistics**, working on data, automation, and enterprise transformation.
+- ⚓ Contributing to **Cognitiv’Dore**, a program supporting the digital transformation of conventional cargo-handling operations.
+- 🧠 Independently building **KardiaMind**, a mental-health and teletherapy platform.
+- 🌍 Based in **Douala, Cameroon**, working in **French and English**.
+
+My work combines application development, data integration, and cloud delivery, with a focus on traceability, maintainability, and keeping people in control of critical decisions.
 
 ## 🚀 Featured Work
 
 ### ⚓ Cognitiv’Dore — Port Operations Transformation
 
-**Cognitiv’Dore** is an Africa Global Logistics program designed to support the digital transformation and supervision of conventional cargo-handling operations.
+**Cognitiv’Dore** is an Africa Global Logistics program supporting the digital transformation and supervision of conventional cargo-handling operations.
 
-I am currently working on its **Preparation module**, which transforms heterogeneous maritime manifest data into controlled, structured, and traceable information before it is consumed by downstream business systems.
+#### The challenge
 
-The module supports:
+Maritime manifests arrive in different formats and structures. Before operational and billing systems can use this information, it must be extracted, standardized, checked, and validated.
 
-- Maritime manifests received as PDF, EDI/TXT, Excel, or manual input
-- Data import, extraction, structuring, and validation
-- Automated business and data-quality controls
-- Human review and correction through a human-in-the-loop workflow
-- Complete traceability of processing and validation activities
-- Generation of standardized outputs for operational and billing systems
-- Centralized and controlled data storage
+#### My contribution
 
-The solution reduces repeated data entry, limits processing errors, and significantly improves manifest preparation time while keeping users in control of critical validations.
+I am currently working on the **Preparation module**, which transforms manifests received as **PDF, EDI/TXT, Excel, or manual input** into structured, controlled, and traceable data.
 
-**Technology:** `.NET` · `Next.js` · `Azure SQL` · `Microsoft Azure` · `Azure DevOps`
+The module brings together:
+
+- **Data preparation:** import, extraction, and structuring of heterogeneous manifest data.
+- **Business validation:** automated business rules and data-quality checks.
+- **Human review:** correction and validation workflows that keep users in control.
+- **Traceability:** a record of processing and validation activities.
+- **System integration:** standardized outputs for downstream operational and billing systems, supported by centralized data storage.
+
+The module is designed to reduce repeated data entry, limit processing errors, and improve manifest preparation efficiency.
+
+**Stack:** `.NET` · `Next.js` · `Azure SQL` · `Microsoft Azure` · `Azure DevOps`
+
+<!-- Add a link to an approved public case study or architecture overview when available. -->
 
 ### 🧠 KardiaMind — Independent Product Engineering
 
-Alongside my professional work, I am building **KardiaMind**, a mental-health and teletherapy platform for patients, therapists, and administrators.
+I’m building **KardiaMind**, a mental-health and teletherapy platform for patients, therapists, and administrators.
 
-The platform includes:
+#### The product
 
-- A versioned API and React administration portal
-- Secure authentication and role-based authorization
-- Therapist discovery, appointment booking, and patient management
-- Realtime messaging, presence, and audio consultations
-- Push notifications and mobile-money payments
-- Automated reminders, financial workflows, and therapist payouts
-- Automated testing, static analysis, and CI/CD practices
+KardiaMind brings therapist discovery, appointment booking, patient management, and remote consultations into a connected experience.
 
-**Technology:** `Laravel` · `PHP` · `React` · `TypeScript` · `Inertia.js` · `Tailwind CSS` · `Reverb` · `Agora` · `Firebase` · `Pest`
+#### My contribution
+
+My work spans the API, administration portal, realtime services, and supporting operational workflows:
+
+- **Application foundations:** a versioned API, React administration portal, authentication, and role-based authorization.
+- **Care coordination:** therapist discovery, appointment booking, patient management, and automated reminders.
+- **Realtime communication:** messaging, presence, and audio consultations.
+- **Payments and operations:** mobile-money payments, financial workflows, and therapist payouts.
+- **Engineering quality:** automated testing, static analysis, and CI/CD.
+
+The project brings together product development and the engineering challenges of coordinating communication, scheduling, and payments across multiple user roles.
+
+**Stack:** `Laravel` · `PHP` · `React` · `TypeScript` · `Inertia.js` · `Tailwind CSS`  
+**Services & tooling:** `Reverb` · `Agora` · `Firebase` · `Pest`
+
+<!-- Add the current product stage and a repository, demo, or product overview link when available. -->
 
 ## 🛠️ Core Expertise
 
-| Area | Technologies and practices |
+| Focus | Technologies and practices |
 |---|---|
-| **Software Engineering** | .NET, C#, PHP, Laravel, REST APIs, system design |
-| **Frontend Development** | Next.js, React, TypeScript, JavaScript, Inertia.js, Vue.js, Tailwind CSS |
-| **AI & Automation** | Azure OpenAI, AI Builder, Copilot Studio, Power Platform, document processing |
+| **Enterprise Applications** | C#/.NET, PHP, Laravel, REST APIs, system integration |
+| **Frontend Engineering** | React, Next.js, TypeScript, Inertia.js, Tailwind CSS |
+| **AI & Automation** | Azure OpenAI, AI Builder, Copilot Studio, Power Platform, document processing, human-in-the-loop workflows |
 | **BI & Data** | Power BI, QlikView, Talend, SQL Server, Azure SQL, MySQL, PostgreSQL |
-| **Cloud & DevOps** | Microsoft Azure, Azure DevOps, Docker, GitHub Actions, CI/CD |
-| **Architecture** | Human-in-the-loop workflows, system integration, realtime applications, traceability |
-| **Quality** | Automated testing, static analysis, code review, observability |
-
-## 💡 Areas of Interest
-
-- Enterprise application modernization
-- Intelligent document processing
-- Human-centered automation
-- Business intelligence and data platforms
-- Cloud architecture and DevOps
-- Realtime and API-driven applications
-- Digital transformation of operational processes
+| **Cloud & Delivery** | Microsoft Azure, Azure DevOps, Docker, GitHub Actions, CI/CD |
+| **Engineering Quality** | Automated testing, static analysis, code review, observability, traceability |
 
 ## 🏅 Certifications
 
-- **PL-300** — Microsoft Power BI Data Analyst
-- **AZ-400** — Microsoft DevOps Engineer Expert
-- **AZ-204** — Microsoft Azure Developer Associate
-- **AZ-900** — Microsoft Azure Fundamentals
+<!-- Confirm the exact credential titles against your badges and add verification links where available. -->
+<!-- Add the issuing organization for the Scrum Master credential. -->
+
+- **Microsoft Certified: Power BI Data Analyst Associate** — PL-300
+- **Microsoft Certified: DevOps Engineer Expert** — AZ-400
+- **Microsoft Certified: Azure Developer Associate** — AZ-204
+- **Microsoft Certified: Azure Fundamentals** — AZ-900
 - **ITIL® 4 Foundation**
 - **Scrum Master Accredited**
 
 ## 📫 Let’s Connect
 
-- 🌐 [samankassou.com](https://www.samankassou.com)
-- 💼 [linkedin.com/in/sam-foulla](https://www.linkedin.com/in/sam-foulla)
-- 🐙 [github.com/samankassou](https://github.com/samankassou)
+Interested in enterprise applications, intelligent document processing, or data-driven operational transformation? Let’s connect.
 
----
-
-<p align="center">
-  Building reliable systems at the intersection of software, data, AI, and business operations.
-</p>
+- 🌐 **Portfolio:** [samankassou.com](https://www.samankassou.com)
+- 💼 **LinkedIn:** [linkedin.com/in/sam-foulla](https://www.linkedin.com/in/sam-foulla)
